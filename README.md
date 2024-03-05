@@ -229,3 +229,20 @@
             <p>. . .</p>
         <h4 id="подраздел-4.4.2">Section</h4>
             <p>. . .</p>
+
+<!-- Contacts -->
+<h2>📡 Контакты автора:</h2>
+<div id="badges" align="center">
+  <a href="https://vk.com/bogdan_klimov">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white&size=30" alt="VK Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/bogdanklimov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/ghost_777_24?igsh=aHdwa2s1cTIzbmhw&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100033935590093&mibextid=LQQJ4d">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
