@@ -83,7 +83,7 @@
   </tr>
 </table>
 
-<img src="https://github.com/BogdanKlimov11/Python_course/assets/136115919/f9145fe6-f24d-47d6-894a-d185c46ac234" alt="Algorithm complexity" width="53.5%" height="auto">
+<img src="https://github.com/BogdanKlimov11/Python_course/assets/136115919/f9145fe6-f24d-47d6-894a-d185c46ac234" alt="Algorithm complexity" width="60%" height="auto">
 
 <!-- Оглавление -->
 <h2>Оглавление</h2>
